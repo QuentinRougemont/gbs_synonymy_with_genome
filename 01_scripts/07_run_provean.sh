@@ -20,7 +20,7 @@ then
     mkdir "$output"
 fi
 
-for fast in $(ls -1 06_provean_input_rename/*fasta )
+for fast in $(ls -1 $input/*fasta )
 do
     echo "analysing $fast"
 
