@@ -5,6 +5,13 @@
 - Fill README.md
 - Run on new dataset and polish
 
+#### Note:
+
+the final step of running provean can be done:
+*    either in parallel (using 08.b_run_provean_iteration.sh and 08.a_run_provean_parallel.sh)
+
+*    or with a single CPUs using the script 07_run_provean.sh  
+
 # License
 
 CC share-alike
