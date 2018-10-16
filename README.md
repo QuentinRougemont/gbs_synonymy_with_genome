@@ -5,8 +5,7 @@
 - Fill README.md
 - Run on new dataset and polish
 
-
-##  Set of script to identify synonymous and non synonymous mutation as well as deleterious µ
+## Set of script to identify synonymous and non synonymous mutation as well as deleterious µ
 
 *   initially developped for GBS data and make use of reference genome and transcriptome of the species
 *   I am still testing it with whole genome data
