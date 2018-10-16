@@ -5,22 +5,22 @@
 - Fill README.md
 - Run on new dataset and polish
 
-##  Set of script to identify synonymous and non synonymous mutation as well as deleterious µ
 
-## WORK STILL in progress
+##  Set of script to identify synonymous and non synonymous mutation as well as deleterious µ
 
 *   initially developped for GBS data and make use of reference genome and transcriptome of the species
 *   I am still testing it with whole genome data
 
 To run the pipeline simply use the script in chronoligcal order
+
 Make sur to read all the scripts and format the data appropriately
 
 #### Note:
 
 the final step of running provean can be done:
-*    either in parallel (using 08.b_run_provean_iteration.sh and 08.a_run_provean_parallel.sh)
+*    either in parallel (using `08.b_run_provean_iteration.sh` and `08.a_run_provean_parallel.sh`)
 
-*    or with a single CPUs using the script 07_run_provean.sh  
+*    or with a single CPUs using the `script 07_run_provean.sh`  
 
 # License
 
