@@ -14,7 +14,7 @@ Make sur to read all the scripts and format the data appropriately
 - Fill README.md
 - Run on new dataset and polish
 
-# Dependencies:
+# Dependencies
 
 **NCBI-blast** [v2.4](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.4.0/)
 
