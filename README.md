@@ -16,13 +16,13 @@ Make sur to read all the scripts and format the data appropriately
 
 # Dependencies
 
-**NCBI-blast** [v2.4](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.4.0/)
+**NCBI-blast** [v2.4](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.4.0/)
 
 **Provean** [software](http://provean.jcvi.org/downloads.php)
 
 **cdhit** [software](https://github.com/weizhongli/cdhit)
 
-**Blast db nr** that can be download on ncbi [website](ftp://ftp.ncbi.nlm.nih.gov/blast/db/) 
+**Blast db nr** that can be download on ncbi [website](https://ftp.ncbi.nlm.nih.gov/blast/db/) 
 
 ### to identify deleterious mutation 
 
