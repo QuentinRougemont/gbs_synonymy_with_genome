@@ -5,6 +5,34 @@
 - Fill README.md
 - Run on new dataset and polish
 
+## Dependencies:
+
+**NCBI-blast** [v2.4](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.4.0/) or less
+
+**Provean** [software](http://provean.jcvi.org/downloads.php
+
+**cdhit** [software](https://github.com/weizhongli/cdhit)
+
+**Blast db nr** that can be download on ncbi [website](ftp://ftp.ncbi.nlm.nih.gov/blast/db/) 
+
+### to identify deleterious mutation 
+
+* read all scripts and see the help before running them
+* run scripts one by one in chronological order
+* for provean you need to edit the file `provean.sh` located with the software
+
+  *  in particular you need to provide the path to the various dependencies
+    * e.g.:
+
+      * `BLAST_DB="/home/ressources/db_nr_and_vertebrates/nr" `
+
+      * `PSIBLAST="/home/qurou/software/ncbi-blast-2.4.0+/bin//psiblast" `    
+
+      * `CD_HIT="/home/qurou/software/cdhit//cd-hit `"                        
+
+      * `BLASTDBCMD="/home/qurou/software/ncbi-blast-2.4.0+/bin//blastdbcmd"` 
+
+
 ## Set of script to identify synonymous and non synonymous mutation as well as deleterious µ
 
 *   initially developped for GBS data and make use of reference genome and transcriptome of the species
