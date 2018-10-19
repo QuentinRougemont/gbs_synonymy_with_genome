@@ -7,9 +7,9 @@
 
 ## Dependencies:
 
-**NCBI-blast** [v2.4](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.4.0/) or less
+**NCBI-blast** [v2.4](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.4.0/)
 
-**Provean** [software](http://provean.jcvi.org/downloads.php
+**Provean** [software](http://provean.jcvi.org/downloads.php)
 
 **cdhit** [software](https://github.com/weizhongli/cdhit)
 
