@@ -1,11 +1,20 @@
 # GBS synonymy with genome
 
+## Set of script to identify synonymous and non synonymous mutation as well as deleterious µ
+
+*   initially developped for GBS data and make use of reference genome and transcriptome of the species
+*   I am still testing it with whole genome data
+
+To run the pipeline simply use the script in chronoligcal order
+
+Make sur to read all the scripts and format the data appropriately
+
 # TODO
 
 - Fill README.md
 - Run on new dataset and polish
 
-## Dependencies:
+# Dependencies:
 
 **NCBI-blast** [v2.4](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.4.0/)
 
@@ -32,15 +41,6 @@
 
       * `BLASTDBCMD="/home/qurou/software/ncbi-blast-2.4.0+/bin//blastdbcmd"` 
 
-
-## Set of script to identify synonymous and non synonymous mutation as well as deleterious µ
-
-*   initially developped for GBS data and make use of reference genome and transcriptome of the species
-*   I am still testing it with whole genome data
-
-To run the pipeline simply use the script in chronoligcal order
-
-Make sur to read all the scripts and format the data appropriately
 
 #### Note:
 
