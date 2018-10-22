@@ -10,5 +10,4 @@ output_sss="$output_folder"/${input_basename%.fasta}.sss
 "$path"/provean.sh \
     -q $input_file \
     -v ${input_file%.fasta}.var \
-#    --save_supporting_set "$output_sss"  >> allout.txt 2>&1 #choose according to the nb of output you prefer 
     --save_supporting_set "$output_sss"  >> allout${input_basename%.fasta}.txt 2>&1 
