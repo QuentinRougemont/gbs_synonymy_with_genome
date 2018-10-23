@@ -18,5 +18,5 @@ dbtype="prot"
 
 makeblastdb -in "$input" \
             -input_type "$input_type" \
-            -dbtype "$dbtype"
+            -dbtype "$dbtype"\
             -title "$title"
