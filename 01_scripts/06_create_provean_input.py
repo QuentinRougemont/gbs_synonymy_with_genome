@@ -2,7 +2,7 @@
 """Format 01_pre_format_for_provean.tsv into fasta and variant files for provean
 
 Usage:
-    ./01_scripts/01_create_provean_input.py 01_pre_format_for_provean.tsv 06_provean_input
+    ./01_scripts/06_create_provean_input.py 01_pre_format_for_provean.tsv 06_provean_input
 """
 
 # Modules

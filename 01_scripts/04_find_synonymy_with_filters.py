@@ -3,7 +3,7 @@
 and pair them to find synonymy.
 
 Usage:
-    ./01_scripts/05_find_synonymy_with_filters.py input_file min_simil min_len output_file
+    ./01_scripts/04_find_synonymy_with_filters.py input_file min_simil min_len output_file
 
 Blast format:
     100054_28_C 01350001 80.000 25 3.36e-07 42.7 QRVVYMAQYITGTKLPAIQELYTRQ QRVVRTAQYITGAKLPAIQDLYNRQ
